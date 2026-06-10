@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0031-next-permutation) |
+| [1768-merge-strings-alternately](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
