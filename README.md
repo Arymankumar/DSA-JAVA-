@@ -71,6 +71,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
