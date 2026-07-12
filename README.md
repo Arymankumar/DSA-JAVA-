@@ -23,6 +23,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1732-find-the-highest-altitude) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2352-equal-row-and-column-pairs) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
