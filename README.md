@@ -25,6 +25,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2352-equal-row-and-column-pairs) |
+| [2942-find-words-containing-character](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
+| [2942-find-words-containing-character](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2942-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
