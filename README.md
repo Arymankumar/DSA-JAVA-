@@ -62,6 +62,7 @@
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Matrix
 |  |
@@ -94,6 +95,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -157,6 +159,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0415-add-strings) |
 | [2352-equal-row-and-column-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2352-equal-row-and-column-pairs) |
 ## Backtracking
 |  |
