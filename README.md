@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0334-increasing-triplet-subsequence) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -135,6 +137,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [1331-rank-transform-of-an-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2089-find-target-indices-after-sorting-array) |
