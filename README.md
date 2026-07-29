@@ -96,6 +96,7 @@
 | [0044-wildcard-matching](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
