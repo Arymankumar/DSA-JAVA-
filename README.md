@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0334-increasing-triplet-subsequence) |
@@ -128,6 +129,7 @@
 | [0044-wildcard-matching](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0072-edit-distance) |
+| [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
