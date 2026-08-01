@@ -64,6 +64,7 @@
 | [0029-divide-two-integers](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0069-sqrtx) |
@@ -128,6 +129,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
