@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 | [2352-equal-row-and-column-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
 |  |
@@ -101,6 +103,7 @@
 | [0058-length-of-last-word](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
@@ -181,6 +184,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,6 +205,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
