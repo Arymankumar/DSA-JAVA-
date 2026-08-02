@@ -62,6 +62,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0032-longest-valid-parentheses) |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1207-unique-number-of-occurrences](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1331-rank-transform-of-an-array) |
