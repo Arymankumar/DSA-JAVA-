@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2089-find-target-indices-after-sorting-array) |
