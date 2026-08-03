@@ -72,6 +72,7 @@
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Matrix
@@ -138,6 +139,7 @@
 | [0044-wildcard-matching](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
