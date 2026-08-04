@@ -102,6 +102,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0043-multiply-strings) |
@@ -202,6 +203,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0032-longest-valid-parentheses) |
 ## String Matching
 |  |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0070-climbing-stairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
