@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
@@ -149,6 +151,7 @@
 | [0044-wildcard-matching](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0072-edit-distance) |
