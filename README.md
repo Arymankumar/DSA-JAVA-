@@ -20,6 +20,7 @@
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0334-increasing-triplet-subsequence) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0012-integer-to-roman](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -176,6 +179,7 @@
 | [0016-3sum-closest](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -255,4 +259,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
