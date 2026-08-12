@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
@@ -89,6 +90,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
@@ -168,6 +170,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1207-unique-number-of-occurrences) |
