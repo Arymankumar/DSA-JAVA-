@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
@@ -221,12 +222,14 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
