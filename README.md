@@ -18,6 +18,7 @@
 | [0055-jump-game](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
@@ -48,6 +49,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -94,6 +96,7 @@
 | [0036-valid-sudoku](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 | [2352-equal-row-and-column-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
