@@ -244,6 +244,7 @@
 | [0020-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -251,11 +252,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -264,6 +267,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
 ## Combinatorics
 |  |
