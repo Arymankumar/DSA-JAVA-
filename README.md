@@ -253,12 +253,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
 ## Combinatorics
 |  |
@@ -289,4 +292,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
