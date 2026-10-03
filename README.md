@@ -126,6 +126,7 @@
 | [0020-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0058-length-of-last-word) |
