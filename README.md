@@ -17,6 +17,7 @@
 | [0047-permutations-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0066-plus-one) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0415-add-strings) |
 | [2352-equal-row-and-column-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2352-equal-row-and-column-pairs) |
