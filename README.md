@@ -95,6 +95,7 @@
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0415-add-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Matrix
@@ -179,6 +180,7 @@
 | [0072-edit-distance](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0097-interleaving-string) |
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
@@ -269,6 +271,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
 ## Depth-First Search
@@ -287,6 +290,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0100-same-tree) |
 ## Combinatorics
@@ -313,6 +317,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0099-recover-binary-search-tree) |
 ## Quicksort
 |  |
