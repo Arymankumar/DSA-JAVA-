@@ -99,6 +99,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0415-add-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
