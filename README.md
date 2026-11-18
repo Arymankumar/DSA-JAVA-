@@ -260,6 +260,7 @@
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0191-number-of-1-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1009-complement-of-base-10-integer) |
 ## Stack
 |  |
 | ------- |
