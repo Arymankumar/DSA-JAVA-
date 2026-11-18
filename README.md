@@ -98,6 +98,7 @@
 | [0069-sqrtx](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -125,6 +126,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [0067-add-binary](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1009-complement-of-base-10-integer) |
 ## Stack
 |  |
