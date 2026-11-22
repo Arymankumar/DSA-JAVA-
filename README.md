@@ -157,6 +157,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2942-find-words-containing-character](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2942-find-words-containing-character) |
 ## Greedy
 |  |
