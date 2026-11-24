@@ -156,6 +156,7 @@
 | [0443-string-compression](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1768-merge-strings-alternately](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1768-merge-strings-alternately) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2942-find-words-containing-character](https://github.com/Arymankumar/DSA-JAVA-/tree/master/2942-find-words-containing-character) |
@@ -192,6 +193,7 @@
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
 | ------- |
