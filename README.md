@@ -28,6 +28,7 @@
 | [0079-word-search](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0238-product-of-array-except-self) |
@@ -190,6 +191,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Arymankumar/DSA-JAVA-/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arymankumar/DSA-JAVA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
